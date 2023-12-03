@@ -11,9 +11,6 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Money",
   description: "Allan Zhantaykozha",
-  icons: {
-    icon: "/favicon.png",
-  },
 };
 
 export default function RootLayout({
